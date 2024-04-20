@@ -1,6 +1,7 @@
 👨‍💻 Técnico em Eletrônica & Estudante de Ciência da Computação - 1º Semestre La Salle 🚀
 
 🔧 Amante da eletrônica e dos circuitos complexos
+
 💻 Explorando o mundo da programação e da ciência de dados
 🌱 Aprendendo novas linguagens e ferramentas a cada dia
 🔬 Fascinado pela interseção entre hardware e software
