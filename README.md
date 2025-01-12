@@ -1,4 +1,4 @@
-👨‍💻 Técnico em Eletrônica & Estudante de Ciência da Computação - 2º Semestre La Salle 🚀
+👨‍💻 Técnico em Eletrônica & Estudante de Ciência da Computação - 3º Semestre La Salle 🚀
 
 * 🔧 Amante da eletrônica e dos circuitos complexos
 * 💻 Explorando o mundo da programação e da ciência de dados
