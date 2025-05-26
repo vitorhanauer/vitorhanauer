@@ -5,11 +5,8 @@
 🔬 Fascinado pela interseção entre hardware e software
 📚 Compartilhando conhecimento e colaborando em projetos incríveis
 💡 Sempre em busca de desafios para expandir minhas habilidades
-
 ---
-
 ### Minhas Stacks:
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
